@@ -1,0 +1,9 @@
+c:\users\su14rickard\documents\visual studio 2013\Projects\Multiplikationtabell\Multiplikationtabell\bin\Debug\Multiplikationtabell.exe.config
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Multiplikationtabell\Multiplikationtabell\bin\Debug\Multiplikationtabell.exe
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Multiplikationtabell\Multiplikationtabell\bin\Debug\Multiplikationtabell.pdb
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Multiplikationtabell\Multiplikationtabell\obj\Debug\Multiplikationtabell.csprojResolveAssemblyReference.cache
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Multiplikationtabell\Multiplikationtabell\obj\Debug\Multiplikationtabell.exe
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Multiplikationtabell\Multiplikationtabell\obj\Debug\Multiplikationtabell.pdb
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\Multiplikationtabell\Multiplikationtabell\bin\Debug\Multiplikationtabell.exe.config
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\Multiplikationtabell\Multiplikationtabell\obj\Debug\Multiplikationtabell.exe
+C:\Users\su14rickard\Documents\Visual Studio 2013\Projects\Lektion övningar\Multiplikationtabell\Multiplikationtabell\obj\Debug\Multiplikationtabell.pdb
